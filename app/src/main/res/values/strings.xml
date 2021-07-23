@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies Now Info</string>
+    <string name="dashboard_hint_find_movie_or_tv">Buscar pelicula o serie</string>
+    <string name="label_dashboard_show_more">Ver mas</string>
+    <string name="label_dashboard_popular_movies">"Películas Populares"</string>
+    <string name="label_dashboard_popular_tv_series">"Series Populares"</string>
+    <string name="label_dashboard_top_movies">"Top de Películas"</string>
+    <string name="label_dashboard_top_tv_series">"Top de Series"</string>
+    <string name="label_detail_description">Descripcion</string>
+    <string name="label_detail_titulo_original">Titulo Original</string>
+    <string name="label_detail_average">Calificación</string>
+    <string name="label_detail_genres">Generos</string>
+</resources>
